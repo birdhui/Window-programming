@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\ConsoleApp_ch05_p203_CarNumber\bin\Debug\ConsoleApp_ch05_p203_CarNumber.exe.config
+C:\Users\User\Desktop\C#\ConsoleApp_ch05_p203_CarNumber\bin\Debug\ConsoleApp_ch05_p203_CarNumber.exe
+C:\Users\User\Desktop\C#\ConsoleApp_ch05_p203_CarNumber\bin\Debug\ConsoleApp_ch05_p203_CarNumber.pdb
+C:\Users\User\Desktop\C#\ConsoleApp_ch05_p203_CarNumber\obj\Debug\ConsoleApp_ch05_p203_CarNumber.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\ConsoleApp_ch05_p203_CarNumber\obj\Debug\ConsoleApp_ch05_p203_CarNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\ConsoleApp_ch05_p203_CarNumber\obj\Debug\ConsoleApp_ch05_p203_CarNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\ConsoleApp_ch05_p203_CarNumber\obj\Debug\ConsoleApp_ch05_p203_CarNumber.exe
+C:\Users\User\Desktop\C#\ConsoleApp_ch05_p203_CarNumber\obj\Debug\ConsoleApp_ch05_p203_CarNumber.pdb

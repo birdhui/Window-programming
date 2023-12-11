@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\ConsoleApp_ch0308\bin\Debug\ConsoleApp_ch0308.exe.config
+C:\Users\User\Desktop\C#\ConsoleApp_ch0308\bin\Debug\ConsoleApp_ch0308.exe
+C:\Users\User\Desktop\C#\ConsoleApp_ch0308\bin\Debug\ConsoleApp_ch0308.pdb
+C:\Users\User\Desktop\C#\ConsoleApp_ch0308\obj\Debug\ConsoleApp_ch0308.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\ConsoleApp_ch0308\obj\Debug\ConsoleApp_ch0308.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\ConsoleApp_ch0308\obj\Debug\ConsoleApp_ch0308.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\ConsoleApp_ch0308\obj\Debug\ConsoleApp_ch0308.exe
+C:\Users\User\Desktop\C#\ConsoleApp_ch0308\obj\Debug\ConsoleApp_ch0308.pdb
