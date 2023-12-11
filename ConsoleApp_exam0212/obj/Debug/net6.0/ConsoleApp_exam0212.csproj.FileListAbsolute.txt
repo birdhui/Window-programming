@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\bin\Debug\net6.0\ConsoleApp_exam0212.exe
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\bin\Debug\net6.0\ConsoleApp_exam0212.deps.json
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\bin\Debug\net6.0\ConsoleApp_exam0212.runtimeconfig.json
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\bin\Debug\net6.0\ConsoleApp_exam0212.dll
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\bin\Debug\net6.0\ConsoleApp_exam0212.pdb
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\obj\Debug\net6.0\ConsoleApp_exam0212.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\obj\Debug\net6.0\ConsoleApp_exam0212.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\obj\Debug\net6.0\ConsoleApp_exam0212.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\obj\Debug\net6.0\ConsoleApp_exam0212.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\obj\Debug\net6.0\ConsoleApp_exam0212.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\obj\Debug\net6.0\ConsoleApp_exam0212.dll
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\obj\Debug\net6.0\refint\ConsoleApp_exam0212.dll
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\obj\Debug\net6.0\ConsoleApp_exam0212.pdb
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\obj\Debug\net6.0\ConsoleApp_exam0212.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\ConsoleApp_exam0212\obj\Debug\net6.0\ref\ConsoleApp_exam0212.dll
