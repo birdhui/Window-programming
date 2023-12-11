@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C#\WindowsFormsApp_exam0211_form\bin\Debug\WindowsFormsApp_exam0211_form.exe.config
+C:\Users\User\Desktop\C#\WindowsFormsApp_exam0211_form\bin\Debug\WindowsFormsApp_exam0211_form.exe
+C:\Users\User\Desktop\C#\WindowsFormsApp_exam0211_form\bin\Debug\WindowsFormsApp_exam0211_form.pdb
+C:\Users\User\Desktop\C#\WindowsFormsApp_exam0211_form\obj\Debug\WindowsFormsApp_exam0211_form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\WindowsFormsApp_exam0211_form\obj\Debug\WindowsFormsApp_exam0211_form.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\WindowsFormsApp_exam0211_form\obj\Debug\WindowsFormsApp_exam0211_form.Form1.resources
+C:\Users\User\Desktop\C#\WindowsFormsApp_exam0211_form\obj\Debug\WindowsFormsApp_exam0211_form.Properties.Resources.resources
+C:\Users\User\Desktop\C#\WindowsFormsApp_exam0211_form\obj\Debug\WindowsFormsApp_exam0211_form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\WindowsFormsApp_exam0211_form\obj\Debug\WindowsFormsApp_exam0211_form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\WindowsFormsApp_exam0211_form\obj\Debug\WindowsFormsApp_exam0211_form.exe
+C:\Users\User\Desktop\C#\WindowsFormsApp_exam0211_form\obj\Debug\WindowsFormsApp_exam0211_form.pdb
