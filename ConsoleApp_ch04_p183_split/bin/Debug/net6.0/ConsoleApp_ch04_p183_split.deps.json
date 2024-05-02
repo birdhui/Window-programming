@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp_ch04_p183_split/1.0.0": {
+        "runtime": {
+          "ConsoleApp_ch04_p183_split.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp_ch04_p183_split/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
